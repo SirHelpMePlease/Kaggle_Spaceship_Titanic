@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2905a31-56ea-46b2-bad2-f2e063a51268" name="Changes" comment="Initial Commit">
+    <list default="true" id="d2905a31-56ea-46b2-bad2-f2e063a51268" name="Changes" comment="Feat engineering begonnen">
+      <change afterPath="$PROJECT_DIR$/Models.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feature Engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Feature Engineering.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782565589063</updated>
-      <workItem from="1782565590080" duration="1470000" />
+      <workItem from="1782565590080" duration="11613000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -87,7 +90,23 @@
       <option name="project" value="LOCAL" />
       <updated>1782565669673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="EDA gemacht">
+      <option name="closed" value="true" />
+      <created>1782567071798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782567071798</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Feat engineering begonnen">
+      <option name="closed" value="true" />
+      <created>1782567721185</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782567721185</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +114,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="EDA gemacht" />
+    <MESSAGE value="Feat engineering begonnen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat engineering begonnen" />
   </component>
 </project>
